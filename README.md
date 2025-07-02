@@ -32,10 +32,10 @@ Welcome to my GitHub! I'm a passionate developer who loves building innovative a
 
 ## ✨ A Few Cool Projects
 
-- 🧳 **AI Travel Planner** — Auto-generates smart itineraries  
-- 🧠 **NeuroBuddy** — Personalized AI support system for ADHD/autistic users  
-- 📷 **Facial Feature Detection** — Real-time Mediapipe-based face annotation  
-- 📚 **Homework Helper** — Solves academic queries using NLP + Django
+- 🧳 **AI Travel Planner** - Auto-generates smart itineraries  
+- 🧠 **NeuroBuddy** - Personalized AI support system for ADHD/autistic users  
+- 📷 **Facial Feature Detection** - Real-time Mediapipe-based face annotation  
+- 📚 **Homework Helper** - Solves academic queries using NLP + Django
 
 
 ## 📫 Let's Connect!
@@ -44,6 +44,6 @@ Welcome to my GitHub! I'm a passionate developer who loves building innovative a
 - 📧 Email: rathikratika26@gmail.com
 
 
-_ “Code like poetry should be short and concise.” — Santosh Kalwar_
+_ “Code like poetry should be short and concise.” - Santosh Kalwar_
 
 Thanks for stopping by! ⭐️
