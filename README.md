@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building innovative a
   `AI-powered study tools` | `Educational apps with Django`
 
 - 🧠 **Learning & Exploring**:  
-  `Machine Learning`, `Deep Learning`, `System Design`, `Flutter`, `OpenCV`, `Mediapipe`
+  `Machine Learning`, `Deep Learning`, `System Design`, `OpenCV`, `Mediapipe`
 
 - 💡 **Love Building**:  
   - 🧠 Smart AI Assistants  
